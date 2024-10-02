@@ -1,12 +1,27 @@
-cff-version: 1.1.0
-message: "If you use this software, please cite it as below."
-authors:
-  - family-names: Mühlburger
-    given-names: Herbert
-    orcid: https://orcid.org/0000-0002-7672-0501
-  - family-names: Wotawa
-    given-names: Franz
-    orcid: https://orcid.org/0000-0002-0462-2283
-title: "FLEX: Fault Localization with Open-Source LLMs in Powertrain Systems"
-version: v0.0.3
-date-released: 2024-10-02
+cff-version: 1.0.0
+message: "If you use FLEX for your research, please cite the following."
+references:
+  - type: conference-paper
+    authors:
+      - family-names: Mühlburger
+        given-names: Herbert
+        affiliation: Graz University of Technology
+        orcid: https://orcid.org/0000-0002-7672-0501
+      - family-names: Wotawa
+        given-names: Franz
+        affiliation: Graz University of Technology
+        orcid: https://orcid.org/0000-0002-0462-2283
+    title: "FLEX: Fault Localization with Open-Source LLMs in Powertrain Systems"
+    year: 2024
+    collection-title: "Proceedings of the 35th International Workshop on Principles of Diagnosis and Resilient Systems"
+    editors:
+      - family-names: Smith
+        given-names: John
+    conference:
+      name: 35th International Workshop on Principles of Diagnosis and Resilient Systems
+      location: Vienna, Austria
+      date-start: 2024-11-04
+      date-end: 2024-11-07
+    start: 100
+    end: 110
+    doi: 10.5281/zenodo.13879993
