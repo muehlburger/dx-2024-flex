@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13880045.svg)](https://doi.org/10.5281/zenodo.13880045)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13879936.svg)](https://doi.org/10.5281/zenodo.13879936)
 
 # Code for our paper
 
