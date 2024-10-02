@@ -7,6 +7,6 @@ authors:
   - family-names: Wotawa
     given-names: Franz
     orcid: https://orcid.org/0000-0002-0462-2283
-title: "muehlburger/dx-2024-flex: v0.0.1"
-version: v0.0.1
+title: "FLEX: Fault Localization with Open-Source LLMs in Powertrain Systems"
+version: v0.0.3
 date-released: 2024-10-02
