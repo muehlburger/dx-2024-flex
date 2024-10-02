@@ -23,9 +23,6 @@ references:
     title: "FLEX: Fault Localization with Open-Source LLMs in Powertrain Systems"
     year: 2024
     collection-title: "Proceedings of the 35th International Workshop on Principles of Diagnosis and Resilient Systems"
-    editors:
-      - family-names: Smith
-        given-names: John
     conference:
       name: "35th International Workshop on Principles of Diagnosis and Resilient Systems"
       location: "Vienna, Austria"
@@ -33,4 +30,4 @@ references:
       date-end: "2024-11-07"
     start: 100
     end: 110
-    doi: 10.5281/zenodo.13880045
+    doi: 10.5281/zenodo.13879936
