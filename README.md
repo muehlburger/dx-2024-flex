@@ -2,7 +2,7 @@
 
 # Code for our paper
 
-This repository contains the code for the paper *"Muehlburger, H., & Wotawa, F. (2024). FLEX: Fault Localization with Open-Source LLMs in Powertrain Systems. In Proceedings of the 35th International Workshop on Principles of Diagnosis and Resilient Systems (DX 2024), Vienna, Austria, November 4-7, 2024."*
+This repository contains the code for the paper *"Muehlburger, H., & Wotawa, F. (2024). FLEX: Fault Localization and Explanation with Open-Source Large Language Models in Powertrain Systems. In Proceedings of the 35th International Workshop on Principles of Diagnosis and Resilient Systems (DX 2024), Vienna, Austria, November 4-7, 2024."*
 
 ## Installation
 
