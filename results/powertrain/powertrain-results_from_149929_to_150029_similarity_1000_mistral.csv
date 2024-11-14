@@ -1,0 +1,801 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+149929,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149930,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149931,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149932,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149933,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149934,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149935,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149936,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149937,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149938,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149939,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149940,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149941,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149942,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149943,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149944,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149945,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149946,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149947,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149948,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149949,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149950,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149951,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149952,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149953,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149954,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149955,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149956,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149957,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149958,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149959,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149960,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149961,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149962,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149963,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149964,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149965,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149966,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149967,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149968,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149969,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149970,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149971,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149972,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149973,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149974,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149975,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149976,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149977,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149978,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149979,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149980,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149981,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149982,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149983,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149984,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149985,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149986,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149987,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149988,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149989,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149990,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149991,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149992,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149993,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149994,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149995,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149996,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149997,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149998,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+149999,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150000,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150001,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150002,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150003,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150004,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150005,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150006,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150007,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150008,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150009,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150010,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150011,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150012,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150013,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150014,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150015,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150016,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150017,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150018,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150019,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150020,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150021,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150022,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150023,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150024,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150025,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150026,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150027,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."
+150028,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The provided measurement values are within the reasonable range for a battery voltage (12V to 15V is common for lead-acid batteries), motor rotation speed (ranges from zero to maximum RPM), and h-bridge mode (0 to n, where n is the number of modes supported by the h-bridge circuit). The values are consistent with the context as they represent possible states of a battery-powered electric motor system.
+
+Anomaly-Rating: 0.
+
+Note: An anomaly rating of 0 indicates that there are no anomalies in the provided measurements."

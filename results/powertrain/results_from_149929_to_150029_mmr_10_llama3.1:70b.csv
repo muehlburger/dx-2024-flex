@@ -1,0 +1,301 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+149929,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149930,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149931,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149932,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149933,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149934,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149935,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149936,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149937,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149938,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149939,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149940,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149941,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149942,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149943,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149944,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149945,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149946,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149947,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149948,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149949,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149950,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149951,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149952,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149953,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149954,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149955,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149956,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149957,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149958,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149959,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149960,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149961,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149962,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149963,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149964,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149965,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149966,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149967,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149968,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149969,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149970,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149971,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149972,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149973,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149974,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149975,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149976,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149977,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149978,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149979,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149980,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149981,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149982,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149983,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149984,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149985,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149986,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149987,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149988,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149989,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149990,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149991,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149992,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149993,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149994,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149995,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149996,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149997,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149998,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+149999,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150000,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150001,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150002,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150003,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150004,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150005,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150006,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150007,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150008,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150009,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150010,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150011,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150012,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150013,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150014,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150015,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150016,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150017,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150018,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150019,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150020,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150021,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150022,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150023,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150024,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150025,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150026,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150027,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."
+150028,llama3.1:70b,True,10,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The rotation speed of electric motor is five, which is outside the normal operating range of zero. Additionally, the mode of h-bridge is zero, which is also outside the normal operating range of five."

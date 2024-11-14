@@ -1,0 +1,61 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+3990,mistral,False,5,mmr,"Anomaly: no
+Anomaly-Rating: 0
+Explanation: The given measurements are within the normal operating range provided in the context."
+3991,mistral,False,5,mmr,"Anomaly: no
+Anomaly-Rating: 0
+Explanation: The given measurement values are within the provided context's normal operating range."
+3992,mistral,False,5,mmr,"Anomaly: no
+Anomaly-Rating: 0
+Explanation: The given measurement values are within the provided context's normal operating range."
+3993,mistral,False,5,mmr,"Anomaly: no
+Anomaly-Rating: 0
+Explanation: The given measurements are within the provided context's normal operating range."
+3994,mistral,False,5,mmr,"Anomaly: no
+Anomaly-Rating: 0
+Explanation: The given measurements are within the normal operating range provided in the context."
+3995,mistral,False,5,mmr,"Anomaly: no
+Anomaly-Rating: 0
+Explanation: The given measurements are within the provided context's normal operating range."
+3996,mistral,False,5,mmr,"Anomaly: no
+Anomaly-Rating: 0
+Explanation: The given measurements are within the normal operating range provided in the context."
+3997,mistral,False,5,mmr,"Anomaly: no
+Anomaly-Rating: 0
+Explanation: The given measurements are within the provided context's normal operating range."
+3998,mistral,False,5,mmr,"Anomaly: no
+Anomaly-Rating: 0
+Explanation: The given measurement values are within the provided context's normal operating range."
+3999,mistral,False,5,mmr,"Anomaly: no
+Anomaly-Rating: 0
+Explanation: The given measurement values are within the provided context's normal operating range."
+4000,mistral,False,5,mmr,"Anomaly: no
+Anomaly-Rating: 0
+Explanation: The given measurement values are within the provided context's normal operating range."
+4001,mistral,True,5,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The values provided for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly outside the normal operating range of -10 degC to 12.59 degC. Additionally, amperage_A is negative but the context does not indicate that current can be negative. The power_W value is also much larger than any of the values in the context. These anomalies suggest that there may be a problem with the measurement equipment or the data being entered is incorrect."
+4002,mistral,True,5,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The values provided for temperature\_degC\_three, temperature\_degC\_four, and temperature\_degC\_five are significantly outside the normal operating range provided in the context. These values are not reasonable based on the given context."
+4003,mistral,True,5,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The values provided for temperature\_degC\_three, temperature\_degC\_four, and temperature\_degC\_five are significantly outside the normal operating range of -10 degC to 12 degC. Additionally, amperage\_A and power\_W have values that do not match the given context."
+4004,mistral,True,5,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The values provided for temperature\_degC\_three, temperature\_degC\_four, and temperature\_degC\_five are significantly outside the normal operating range of -10 degC to 20 degC. Additionally, amperage\_A and power\_W have values that are not within the ranges provided in the context."
+4005,mistral,True,5,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The values provided for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly outside the normal operating range of -10 degC to around 20 degC. These values are not reasonable or consistent with the context given."
+4006,mistral,True,5,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The values provided for temperature\_degC\_three, temperature\_degC\_four, and temperature\_degC\_five are significantly outside the normal operating range of -10 degC to 28.35 degC. Additionally, amperage\_A is negative but the context does not indicate that current can be negative. The other values seem consistent with the context."
+4007,mistral,True,5,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The values provided for temperature\_degC\_three, temperature\_degC\_four, and temperature\_degC\_five are significantly outside the normal operating range of -10 degC to 25 degC. Additionally, amperage\_A and power\_W have values that are not within the ranges given in the context."
+4008,mistral,True,5,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The given measurement values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each, and amperage_A being minus eighty-nine point nine five are significantly outside the normal operating ranges provided in the context. These values do not appear to be reasonable or consistent with the given context."
+4009,mistral,True,5,mmr,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation: The values provided for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly outside the normal operating range of -10 degC to 12 degC. Additionally, amperage_A and power_W have values that do not match the given context."

@@ -1,0 +1,111 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+150025,gemma2,False,10,similarity,"## Part 1: Infer Rules from Normal Battery Behavior
+
+- **Battery: OK** (The battery voltage remains consistently at fourteen.)
+
+
+## Part 2: Battery Fault Detection Based on Inferred Rules
+
+```
+component,fault,reason
+battery,OK,The battery voltage is fourteen. 
+```"
+150026,gemma2,False,10,similarity,"## Part 1: Infer Rules from Normal Battery Behavior
+
+- **Battery: OK** (The battery voltage remains consistently at fourteen.)
+
+
+## Part 2: Battery Fault Detection Based on Inferred Rules
+
+```
+component,fault,reason
+battery,OK,The battery voltage is fourteen. 
+```"
+150027,gemma2,False,10,similarity,"## Part 1: Infer Rules from Normal Battery Behavior
+
+- **Battery: OK** (The battery voltage remains consistently at fourteen.)
+
+
+## Part 2: Battery Fault Detection Based on Inferred Rules
+
+```
+component,fault,reason
+battery,OK,The battery voltage is fourteen. 
+```"
+150028,gemma2,False,10,similarity,"## Part 1: Infer Rules from Normal Battery Behavior
+
+- **Battery: OK** (The battery voltage remains consistently at fourteen.)
+
+
+## Part 2: Battery Fault Detection Based on Inferred Rules
+
+```
+component,fault,reason
+battery,OK,The battery voltage is fourteen. 
+```"
+150029,gemma2,False,10,similarity,"## Part 1: Infer Rules from Normal Battery Behavior
+
+- **Battery: OK** (The battery voltage remains consistently at fourteen.)
+
+
+## Part 2: Battery Fault Detection Based on Inferred Rules
+
+```
+component,fault,reason
+battery,OK,The battery voltage is fourteen. 
+```"
+150030,gemma2,True,10,similarity,"## Part 1: Infer Rules from Normal Battery Behavior
+
+- **Battery: OK** (The battery voltage consistently remains at fourteen.)
+
+
+## Part 2: Battery Fault Detection Based on Inferred Rules
+
+```
+component,fault,reason
+battery,Empty,The battery voltage is zero. 
+```"
+150031,gemma2,True,10,similarity,"## Part 1: Infer Rules from Normal Battery Behavior
+
+- **Battery: OK** (The battery voltage consistently remains at fourteen.)
+
+
+## Part 2: Battery Fault Detection Based on Inferred Rules
+
+```
+component,fault,reason
+battery,Empty,The battery voltage is zero. 
+```"
+150032,gemma2,True,10,similarity,"## Part 1: Infer Rules from Normal Battery Behavior
+
+- **Battery: OK** (The battery voltage consistently remains at fourteen.)
+
+
+## Part 2: Battery Fault Detection Based on Inferred Rules
+
+```
+component,fault,reason
+battery,Empty,The battery voltage is zero. 
+```"
+150033,gemma2,True,10,similarity,"## Part 1: Infer Rules from Normal Battery Behavior
+
+- **Battery: OK** (The battery voltage consistently remains at fourteen.)
+
+
+## Part 2: Battery Fault Detection Based on Inferred Rules
+
+```
+component,fault,reason
+battery,Empty,The battery voltage is zero. 
+```"
+150034,gemma2,True,10,similarity,"## Part 1: Infer Rules from Normal Battery Behavior
+
+- **Battery: OK** (The battery voltage consistently remains at fourteen.)
+
+
+## Part 2: Battery Fault Detection Based on Inferred Rules
+
+```
+component,fault,reason
+battery,Empty,The battery voltage is zero. 
+```"

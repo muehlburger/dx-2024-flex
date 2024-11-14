@@ -1,0 +1,301 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+149929,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149930,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149931,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149932,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149933,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149934,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149935,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149936,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149937,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149938,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149939,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149940,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149941,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149942,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149943,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149944,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149945,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149946,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149947,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149948,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149949,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149950,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149951,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149952,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149953,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149954,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149955,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149956,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149957,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149958,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149959,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149960,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149961,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149962,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149963,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149964,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149965,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149966,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149967,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149968,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149969,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149970,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149971,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149972,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149973,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149974,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149975,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149976,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149977,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149978,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149979,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149980,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149981,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149982,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149983,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149984,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149985,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149986,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149987,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149988,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149989,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149990,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149991,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149992,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149993,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149994,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149995,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149996,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149997,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149998,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+149999,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150000,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150001,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150002,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150003,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150004,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150005,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150006,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150007,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150008,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150009,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150010,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150011,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150012,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150013,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150014,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150015,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150016,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150017,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150018,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150019,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150020,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150021,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150022,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150023,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150024,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150025,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150026,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150027,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."
+150028,mistral,False,1,mmr,"Anomaly: no,
+ Anomaly-Rating: 100,
+ Explanation: The test measurements are within the normal operating range provided in the context."

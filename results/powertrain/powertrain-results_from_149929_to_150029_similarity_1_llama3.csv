@@ -1,0 +1,401 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+149929,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5 (non-zero), which is an anomaly since it was previously zero in the normal operating range. The mode of h-bridge being zero is also an anomaly since it was previously 5. The battery's current being zero is consistent with the normal operating range. Overall, the measurements contain some anomalies that deviate from the normal operating range."
+149930,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149931,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149932,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149933,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149934,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149935,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149936,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149937,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149938,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149939,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149940,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149941,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149942,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149943,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149944,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149945,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149946,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149947,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149948,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149949,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149950,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149951,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149952,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149953,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149954,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149955,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149956,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149957,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149958,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149959,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149960,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149961,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149962,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149963,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149964,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149965,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149966,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149967,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149968,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149969,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149970,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149971,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149972,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149973,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149974,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149975,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149976,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149977,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149978,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149979,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149980,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149981,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149982,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149983,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149984,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149985,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149986,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149987,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149988,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149989,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149990,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149991,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149992,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149993,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149994,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149995,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149996,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149997,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149998,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+149999,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150000,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150001,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150002,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150003,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150004,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150005,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150006,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150007,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150008,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150009,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150010,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150011,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150012,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150013,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150014,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150015,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150016,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150017,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150018,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150019,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150020,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150021,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150022,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150023,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150024,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150025,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150026,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150027,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."
+150028,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The battery's voltage is still 14V, which is within the normal operating range. However, the rotation speed of electric motor is 5, whereas in the original context it was zero. This deviation from the expected value increases the anomaly rating. The mode of h-bridge being zero is also unusual, as it was previously set to 5. These inconsistencies with the original context contribute to a moderate anomaly rating of 80."

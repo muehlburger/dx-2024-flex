@@ -1,0 +1,501 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+149929,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: The measurement is within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their respective normal values."
+149930,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149931,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149932,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149933,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149934,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149935,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149936,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149937,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149938,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149939,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149940,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149941,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149942,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149943,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149944,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149945,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149946,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149947,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149948,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149949,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149950,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149951,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149952,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149953,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149954,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149955,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149956,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149957,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149958,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149959,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149960,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149961,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149962,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149963,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149964,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149965,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149966,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149967,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149968,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149969,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149970,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149971,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149972,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149973,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149974,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149975,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149976,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149977,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149978,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149979,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149980,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149981,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149982,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149983,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149984,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149985,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149986,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149987,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149988,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149989,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149990,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149991,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149992,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149993,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149994,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149995,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149996,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149997,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149998,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149999,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150000,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150001,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150002,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150003,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150004,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150005,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150006,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150007,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150008,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150009,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150010,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150011,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150012,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150013,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150014,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150015,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150016,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150017,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150018,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150019,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150020,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150021,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150022,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150023,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150024,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150025,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150026,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150027,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+150028,codegemma,False,5,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The measurement values are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."

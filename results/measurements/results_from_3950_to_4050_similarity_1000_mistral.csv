@@ -1,0 +1,440 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+3950,mistral,False,1000,similarity,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurements appear to be within the given context and reasonable ranges for the provided system. The values are consistent with each other, and there is no obvious anomaly in the data."
+3951,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (9.15°C) is outside the given context range, as it should be between -10°C and 0°C. Additionally, the value of power_W (-39,598.34 W) is significantly lower than the minimum power consumption recorded in the provided data (-12,015.99 W). These anomalies may indicate errors or inconsistencies in the measurement data."
+3952,mistral,False,1000,similarity,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure accuracy and validity."
+3953,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The values provided in the test measurement fall within the given ranges for all variables except for temperature_degC_three which is slightly higher than the minimum value of zero but still within a reasonable range for the context provided. Therefore, there are no clear anomalies present in this measurement based on the given information.
+
+Anomaly-Rating: 0.
+
+Note: It's important to keep in mind that this rating is based solely on the information provided and does not take into account any additional context or underlying assumptions that may be relevant to the specific measurement being analyzed."
+3954,mistral,False,1000,similarity,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional information or context, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger dataset or trend analysis."
+3955,mistral,False,1000,similarity,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for their respective variables in the context of a motor control system. There is no obvious anomaly or inconsistency that can be identified based on the information provided."
+3956,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The values provided are within the given ranges for each variable in the context of the problem statement. There does not appear to be any obvious anomalies or inconsistencies based on the information provided. However, it's important to note that without additional context or knowledge about the specific system being measured, it's impossible to definitively rule out all potential anomalies. The anomaly rating would be 0 since there is no evidence of any anomalous behavior in the given measurements."
+3957,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (nine point one nine) is outside the given context range as it is above zero degrees Celsius. This could indicate a measurement error or an anomalous condition in the system. The other values seem to be within reasonable ranges, but the presence of this anomalous value warrants further investigation."
+3958,mistral,False,1000,similarity,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure their accuracy and validity."
+3959,mistral,False,1000,similarity,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger monitoring and analysis process."
+3960,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The measurements appear to be within the given ranges and consistent with the context provided. The temperature values are all within the range of -10 degrees Celsius to 30 degrees Celsius, the amperage value is within the range of -200 A to -500 A, and the power value is within the range of -39,000 W to -64,000 W. The velocity value is also consistent with the context as it is given in km/h and falls within the range of 100-150 km/h. The no_unit_none_one value is also consistent as it is a dimensionless quantity and is given as a multiple of two. The temperature_degC_six value is slightly above the minimum temperature of 25 degrees Celsius, but this is still within the reasonable range for the context provided. Therefore, there do not appear to be any anomalies in these measurements based on the given criteria.
+
+Anomaly-Rating: 0.
+
+Note: It's important to double-check the ranges and context before giving a definitive answer. If there is any doubt or uncertainty, it may be necessary to consult additional information or seek clarification from the source of the data."
+3961,mistral,False,1000,similarity,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for each variable in the context. There is no obvious inconsistency or anomaly based on the information provided."
+3962,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The value of temperature_degC_three (9.21°C) is significantly higher than the other temperatures, which are all below zero. This could indicate a measurement error or an anomalous condition in the system. Additionally, the power consumption (39,598.42 W) is also much higher than what would be expected based on the given context. These values should be investigated further to determine the cause of the anomalies."
+3963,mistral,True,1000,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 90
+
+Explanation:
+The value of temperature_degC_three (9.22°C) is significantly higher than the other temperatures, which are all below zero degrees Celsius. This anomalous value could indicate a measurement error or an issue with the sensor responsible for measuring this parameter. Additionally, the power consumption (39598.43 W) is unusually high compared to the other measurements. These two anomalous values suggest that there may be an issue with the cooling system or the data acquisition process during this specific measurement instance."
+3964,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (9.22°C) is outside the given context range, which is typically between -10°C and 50°C. This could be an anomalous measurement. However, it's important to note that without additional context or information, it's impossible to definitively determine if this value is truly an anomaly or if there's an error in the data recording or measurement process. The anomaly rating of 90 is given based on the likelihood that this value may be an anomaly, but further investigation would be required to confirm."
+3965,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (9.23°C) is outside the given context range as it is above zero degrees, while all other temperatures are below zero degrees. This inconsistency suggests an anomaly in the measurement. However, since the other values seem reasonable within their respective ranges, I would rate this anomaly as moderate (90 out of 100). It's important to note that further investigation is required to determine the cause of this anomalous temperature reading."
+3966,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The value of temperature_degC_three (9.24) is significantly higher than the other temperatures in this context, which typically range from -10 to +30 degrees Celsius. Additionally, the power_W value (-39598.45) is much larger than the typical values in this context, which usually range from -50000 to +50000 watts. These anomalous values could indicate measurement errors or issues with the measuring device itself."
+3967,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The value of amperage_A (-89.91) is significantly lower than the minimum value observed in the provided data (-5.62). This large deviation from the expected range suggests an anomaly. Additionally, the power_W value (-39,598.46) is also much larger in magnitude than any of the other power values observed. These two measurements are not consistent with the context provided and should be further investigated."
+3968,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (9.25) is outside the given context range of -10 to -1 degrees Celsius. This could indicate a measurement error or an anomalous condition in the system. The other values seem reasonable based on the provided context, but further investigation would be needed to confirm if this anomaly is significant or not."
+3969,mistral,False,1000,similarity,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for each variable in the context. There is no obvious inconsistency or anomaly based on the information provided."
+3970,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The value of temperature_degC_three (9.26°C) is significantly higher than the other temperatures, which are all below zero. This could indicate a measurement error or an anomalous condition in the system. Additionally, the power consumption (39598.48 W) is also much higher than what would be expected based on the given context. These values do not seem to be consistent with the provided context and may require further investigation."
+3971,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (9.26°C) is significantly higher than the other temperatures, which are all below zero degrees Celsius. This anomalous value may indicate an error in measurement or data entry for this particular data point. Additionally, the power consumption (39,598.49 W) is also unusually high compared to the other measurements. These two values suggest that there might be a problem with the sensor or the measurement equipment during the time of this recording."
+3972,mistral,False,1000,similarity,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure their accuracy and validity."
+3973,mistral,False,1000,similarity,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range for the given context as they are all within the provided temperature and velocity ranges, and the amperage and power values are negative which is expected for this system. There does not seem to be any significant deviation from the normal operating conditions based on the given data."
+3974,mistral,False,1000,similarity,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range of values for the given context. There are no obvious anomalies based on the provided data. However, it's important to note that without additional context or information about the system being measured and the specific meaning of each variable, it's impossible to make a definitive assessment. The measurements seem consistent with what could be expected for this type of system."
+3975,mistral,True,1000,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 90
+
+Explanation:
+The value of temperature_degC_three (nine point two nine) is significantly higher than the other temperature values, which are all within the range of minus ten to eleven degrees Celsius. This discrepancy suggests an anomaly in the measurement. Additionally, the amperage_A value (-89.91 A) is also quite large compared to the other measurements, which typically range from -30 to 60 A. These two values stand out as potential indicators of issues with the sensor or measurement equipment."
+3976,mistral,False,1000,similarity,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range of the provided context as they are all numerical values and fall within the given data types (time_s, temperature_degC, amperage_A, power_W, velocity_km_h, no_unit_none, temperature_degC_one to six, and volflow_l_min). The values do not contain any obvious anomalies as they are all within the given ranges. Additionally, the measurements appear to be consistent with the context as they represent data from a motor system."
+3977,mistral,True,1000,similarity,"Anomaly: Yes
+
+Explanation:
+The value of temperature_degC_three (nine point three) is an anomaly as it is not within the given context range of temperatures which are typically below zero degrees Celsius. Additionally, the power_W value (-390598.53) is also an anomaly as it is a negative number, while power should be positive in this context.
+
+Anomaly-Rating: 75
+
+Explanation:
+The anomaly rating of 75 is given due to the presence of two anomalous values (temperature_degC_three and power_W) in the test measurement. However, it's important to note that without further context or information about the system under test, it's impossible to determine if these anomalies are significant or not. For instance, a temperature reading of nine degrees Celsius could be normal for a specific application or environment. Similarly, a negative power value might result from an error in data collection or measurement.
+
+It's also worth noting that the provided context and ranges should be carefully checked before giving any rating."
+3978,mistral,False,1000,similarity,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for each variable in the context. There is no obvious inconsistency or anomaly based on the information provided."
+3979,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The measurements appear to be within the given ranges and consistent with the context provided. The temperature values range from -10°C to 29°C, which is reasonable for a cooling system application. The amperage and power values are negative as expected for a cooling system drawing current and consuming power. The velocity value of 130 km/h seems high but is within the given context as it was previously mentioned that the measurements were taken at different speeds. Overall, there do not appear to be any significant anomalies in these measurements based on the provided information.
+
+Anomaly-Rating: 0.
+
+Note: It's important to keep in mind that this analysis is based solely on the given data and context, and additional information or context could potentially reveal anomalies not apparent from this data alone."
+3980,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (9.32°C) is outside the given context range as it is above zero degrees, while all other temperatures are below zero degrees. This inconsistency suggests an anomaly in the measurement."
+3981,mistral,False,1000,similarity,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurements appear to be within the given ranges and consistent with the context provided. The values for temperature_degC, velocity_km_h, and no_unit_none_one are all within their respective ranges, as are the values for amperage_A and power_W, although these values are not explicitly stated in the context. The value for temperature_degC_six is slightly lower than the expected range of 25-30 degrees Celsius, but this could be a normal variation within the measurement process or an error in recording the data. Overall, there does not appear to be any significant anomalies in these measurements based on the given information."
+3982,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (9.33°C) is outside the given context range of -10°C to 5°C. This could be an anomaly, but it's important to note that without additional context or information, it's impossible to definitively determine if this value is an error or if it represents a valid measurement in a different context. The other values appear to be within the given ranges, but they should still be checked carefully against the specific context for consistency."
+3983,mistral,False,1000,similarity,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional information or context, it's impossible to definitively determine if these measurements are anomalous or not. These values seem normal based on the provided data alone."
+3984,mistral,False,1000,similarity,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional information about the specific system or process being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure accuracy and completeness."
+3985,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (9.34°C) is outside the given context range, as it is above zero degrees Celsius when all other temperatures are below zero degrees Celsius. This inconsistency suggests an anomaly in the measurement data."
+3986,mistral,False,1000,similarity,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger dataset or trend analysis."
+3987,mistral,False,1000,similarity,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The given measurements appear to be within the reasonable range and consistent with the provided context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure their accuracy and validity within the given context."
+3988,mistral,False,1000,similarity,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional information or context, it's impossible to definitively determine if these measurements are anomalous or not. These values seem normal based on the provided data alone."
+3989,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (9.37°C) is outside the given context range as it is above zero degrees Celsius when all other temperatures are below zero degrees Celsius. This inconsistency suggests an anomaly in the measurement data."
+3990,mistral,False,1000,similarity,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure their accuracy and validity."
+3991,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (nine point three eight) is significantly higher than the usual range in this context. Additionally, the value of amperage_A (-89.93) is much lower than the typical values in this context. These anomalies could potentially indicate issues with the measurement device or inconsistencies within the experimental setup."
+3992,mistral,False,1000,similarity,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The given measurements appear to be within the reasonable range and consistent with the provided context. However, it's important to note that without additional context or information about the specific system or process being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis or monitoring effort."
+3993,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The values provided in the test measurement fall within the given ranges for all variables except for temperature_degC_three which is slightly higher than the minimum value of zero but still within a reasonable range for the context provided. Therefore, there are no clear anomalies present in this measurement based on the given information.
+
+Anomaly-Rating: 0.
+
+Note: It's important to keep in mind that this rating is based solely on the information provided and additional context or data may reveal anomalies not apparent from this measurement alone."
+3994,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (9.39°C) is significantly higher than the other temperatures, which are all below zero. This could indicate a measurement error or an anomalous condition in the system. The other values appear to be within reasonable ranges for the given context. However, the high temperature value raises concerns about consistency and accuracy of the measurements. Therefore, I would rate this as a 90-anomaly with an explanation that there is a significant deviation from the expected range. This anomalous measurement should be further investigated or discarded depending on the context."
+3995,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (nine point four) is outside the given context range, which is typically between minus ten and twenty degrees Celsius. Additionally, the power_W value (-39,598.67) seems unusually large compared to the other measurements provided. However, without more context or information about the specific system being measured, it's difficult to determine the exact cause of these anomalies."
+3996,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (nine point four one) is an anomaly as it is significantly higher than the other temperature values which are consistently in the range of minus ten to around twelve degrees Celsius. This could indicate a measurement error or an issue with the sensor responsible for measuring this temperature. The high value does not seem consistent with the given context, and further investigation would be required to determine the cause."
+3997,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (9.41°C) is outside the given context range of -10°C to 25°C. This could indicate a measurement error or an anomalous condition in the system. The other values seem reasonable based on the provided context, but further investigation would be needed to confirm the validity of this data point."
+3998,mistral,False,1000,similarity,"Anomaly: No.
+
+Explanation:
+The values provided are within the given ranges for each variable in the context of the problem statement. There is no obvious inconsistency or anomaly based on the information provided.
+
+Anomaly-Rating: 0.
+
+Note: It's important to double-check the given ranges and context before making a definitive conclusion, as there may be additional context or constraints that could impact the interpretation of these measurements."
+3999,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (9.42°C) is outside the reasonable range for the given context as it is below the minimum temperature mentioned in the context (-10°C). Additionally, the value of power_W (-39,598.69 kW) is significantly lower than the minimum power mentioned in the context (-59,277.84 kW). These anomalies may indicate errors or inconsistencies in the data."
+4000,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (9.43°C) is outside the reasonable range for the given context as it is above zero degrees Celsius while all other temperatures are below zero degrees Celsius. This inconsistency suggests an anomaly in the measurement data."
+4001,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC three, four, and five being ninety-nine is not reasonable or consistent with the given context. Temperatures should typically be within a range of negative numbers for this context."
+4002,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is not reasonable or consistent with the given context. These values are significantly outside of the provided ranges."
+4003,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC, temperature_degC_one, temperature_degC_two, and velocity_km_h are within their given context. However, the values for time_s, amperage_A, temperature_degC_five, temperature_degC_four, temperature_degC_three, and volflow_l_min contain anomalies.
+
+The value of ninety-nine for temperature_degC_three, temperature_degC_four, and temperature_degC_five is not within the given context as temperatures should be between -10 to 50 degrees Celsius. The value of one for no_unit_none_one is also not consistent with the context as units of measurement should not be equal to one unless it's a specific context like hours or minutes.
+
+The value of minus eighty-nine point nine four for amperage_A and minus thirty-nine thousand, five hundred and ninety-eight point seven two for power_W are anomalies as they should be within the given context which is between -10 to 50 Amps for current and between -100000 to 390000 Watts for power.
+
+The value of twelve point five for volflow_l_min is also an anomaly as it's not within the given context which is between 0 to 200 L/min.
+
+Therefore, the anomaly rating is 100 based on the criteria that values are not consistent with the given context and contain anomalies."
+4004,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the amperage_A value being minus eighty-nine point nine four and power_W value being minus thirty-nine thousand, five hundred and ninety-eight point seven three are also significantly larger than what would be expected in this context. These values do not appear to be consistent with the given context."
+4005,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the given context as the temperatures are supposed to be in degrees Celsius and the minimum value provided for this dataset is -10 degrees Celsius. Additionally, the power_W value is also an anomaly as it is negative but much larger than any other power values provided in the dataset."
+4006,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the amperage_A value is negative but typically amperage should be positive in electrical systems. The power_W value is also extremely high, which could indicate an issue with the system or measurement error. Overall, these values do not seem consistent with the given context and are likely indicative of anomalous behavior."
+4007,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range for temperatures. Additionally, the power_W value being a negative number followed by decimal points does not make logical sense in this context."
+4008,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is not a reasonable value within the given context. Additionally, the negative amperage_A value of minus eighty-nine point nine five does not align with the provided context as it suggests a flow in the opposite direction which is not mentioned or suggested anywhere else in the data."
+4009,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the given context as the temperatures are supposed to be in the range of -10 to 60 degrees Celsius. Additionally, the value for amperage_A being minus eighty-nine point nine five is also not within the given context as the amperage values are supposed to be in the range of -100 to 100 Amperes. The power_W value is also an anomaly as it is negative and much larger than the other power values, which are all in the range of -39000 to -40000 Watts. The velocity_km_h value is within the given context but the no_unit_none_one value being one instead of two is also an anomaly as it should be consistent with the other data points which have a value of two for this parameter."
+4010,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range for temperatures. Additionally, the value for no_unit_none_one being one is not consistent with the context as it was previously stated that no_unit_none_one is always two."
+4011,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the power_W value being negative but extremely large indicates an inconsistency with the given context."
+4012,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the amperage_A value being a negative number with more than two decimal places is also an anomaly. The power_W value is also an anomaly due to its extremely large magnitude. These values do not seem consistent with the given context and should be investigated further."
+4013,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the amperage_A value being a negative number with more than two decimal places also raises concerns. These anomalies may indicate errors or inconsistencies in the data."
+4014,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the power_W value being a negative number in the context of electrical power consumption does not make sense. These anomalies indicate that there may be errors or inconsistencies in the data provided."
+4015,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The temperature values of 99 degrees Celsius for all five temperature measurements are significantly higher than the given context, which mentions temperatures ranging from -10 to 25 degrees Celsius. This anomalous data point is not consistent with the provided context and should be investigated further."
+4016,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the reasonable range of temperatures in the given context. Additionally, the amperage_A value of -89.96 is also an anomaly as it's not a realistic value for electrical current. The power_W value is also an anomaly due to its extremely large magnitude compared to the other measurements."
+4017,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the reasonable range of temperatures. Additionally, these values do not seem consistent with the given context as they are significantly higher than any other recorded temperature in the dataset."
+4018,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is not a reasonable value in the given context. These temperatures are supposed to be in degrees Celsius, which typically range from negative to positive numbers. Additionally, the other measurements do not indicate any extreme conditions that would warrant such high temperatures. Therefore, this data point should be investigated further as it likely contains errors or anomalies."
+4019,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the reasonable range of temperatures in the given context."
+4020,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, having the same value for all three temperatures is inconsistent with the given context."
+4021,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the provided context does not mention any extreme temperature conditions that would justify such high temperatures. Therefore, these measurements are considered anomalous."
+4022,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+
+The values for temperature_degC (99, 99, 99), amperage_A (-89.96), and velocity_kmh (130) are significantly outside the provided context. The given context mentions measurements in the range of -10 to +50 for temperature_degC, -20 to +120 for velocity_kmh, and no specifications for amperage_A. These anomalous values are not consistent with the provided context."
+4023,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range provided in the context. Additionally, having all three temperatures being the same value is inconsistent with the given context."
+4024,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the power_W value being negative but much larger than any other power value in the dataset further supports this anomaly."
+4025,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the power_W value being minus thirty-nine thousand, five hundred and ninety-eight point eight eight is also an extremely large value that is unlikely in this context."
+4026,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the amperage_A and power_W values are also extremely high compared to the other measurements provided. These anomalous values do not seem consistent with the given context."
+4027,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is not reasonable or consistent with the given context. These temperatures are far outside the expected range for the provided system."
+4028,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is not a reasonable value in the given context. These temperatures are supposed to be in degrees Celsius, which typically range from negative to positive numbers. Additionally, the power_W value being minus thirty-nine thousand, five hundred and ninety-eight point nine is also an anomaly as it is a negative number, while power is usually a positive value."
+4029,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, having the same value for all three temperatures is inconsistent with the given context."
+4030,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the reasonable range provided in the context. Additionally, an amperage of -89.97 A and power of -39598.92 W are also highly unlikely values for this system."
+4031,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly an anomaly as they are far beyond the reasonable range of temperatures in the given context. Additionally, the amperage_A value being minus eighty-nine point nine seven is also an anomaly as it is outside the typical range for electrical currents. The power_W value is also an anomaly at minus thirty-nine thousand, five hundred and ninety-eight point nine three which is far beyond any reasonable expectation for power consumption in this context."
+4032,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the amperage_A value being a negative number with three decimal places also seems unusual. These anomalies suggest that there may be errors or inconsistencies in the data."
+4033,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC three, four, and five being ninety-nine is clearly outside the given context as the temperatures are supposed to be in degrees Celsius and cannot exceed 100 degrees. Additionally, the value for amperage_A being minus eighty-nine point nine seven is also outside the given context as the amperage values are supposed to be in Amperes and cannot be negative. The power_W value is also an anomaly as it is negative, which does not make sense in the given context as power should always be positive."
+4034,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the amperage_A value being a negative number with three decimal places is also unusual. The power_W value is also an extremely large number which is unlikely in this context."
+4035,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range provided in the context. Additionally, an amperage of -89.97 A and power of -39598.95 W are also highly unlikely values for this system."
+4036,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures in the given context. Additionally, having all three temperatures at the same value is inconsistent with the provided context."
+4037,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the given context. Additionally, the negative value for amperage_A being eighty-nine point nine eight having more digits than the allowed range in this context further supports the anomaly rating."
+4038,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the negative amperage_A value of minus eighty-nine point nine eight and power_W value of minus thirty-nine thousand, five hundred and ninety-eight point nine eight are also extremely large values that do not make sense in this context."
+4039,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the reasonable range of temperatures. Additionally, the amperage_A and power_W values are also extremely high compared to the other measurements provided. These anomalous values do not seem consistent with the given context."
+4040,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the amperage_A value being a negative number with more than two decimal places also raises concerns. These anomalous values may indicate errors or inconsistencies in the data collection or measurement process."
+4041,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range provided in the context. Additionally, the value for power_W being minus thirty-nine thousand, five hundred and ninety-nine is also an anomaly as it is far beyond any reasonable expectation based on the given context."
+4042,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the reasonable range provided in the context. Additionally, the amperage_A and power_W values are also extremely high compared to the other measurements provided. These anomalous values do not seem consistent with the given context."
+4043,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine are clearly outside the reasonable range of temperatures. Additionally, the power_W value is an extremely large negative number which is unlikely in this context."
+4044,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the given context as they should be within the range of -10 to 50 degrees Celsius. Additionally, an amperage value of -89.98 A is not physically possible in this context as current cannot flow in a reverse direction. The other values seem reasonable based on the context provided."
+4045,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range for temperatures. Additionally, the power_W value being a negative number followed by five digits of zeros is also an anomaly."
+4046,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the amperage_A value being a decimal number with three non-zero digits after the decimal point is also an anomaly as it's unlikely to occur in this context. The power_W value being a negative number followed by five digits after the decimal point is another anomaly. Overall, these values do not seem consistent with the given context."
+4047,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given range of temperatures. Additionally, the amperage_A value being a decimal number (-0.99) is also an anomaly as it's not a whole number like the other measurements."
+4048,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is not within the reasonable range or context provided. Additionally, these anomalous values are inconsistent with the given context."
+4049,mistral,True,1000,similarity,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the given context as they should be within the range of -10 to 50 degrees Celsius. Additionally, the value for power_W being minus thirty-nine thousand, five hundred and ninety-nine point zero five is also an anomaly as it's not a reasonable value for power consumption in this context."

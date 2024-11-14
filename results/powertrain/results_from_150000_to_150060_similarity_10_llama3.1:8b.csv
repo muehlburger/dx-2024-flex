@@ -1,0 +1,251 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+150000,llama3.1:8b,True,10,similarity,"Based on the test measurements:
+
+Fault detected: yes
+Fault type: H-Bridge F3
+Fault-Rating: 80
+Explanation: The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150001,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150002,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150003,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150004,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150005,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150006,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150007,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150008,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being five, indicating that the motor is indeed stopped."
+150009,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150010,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150011,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150012,llama3.1:8b,True,10,similarity,"Based on the test measurements:
+
+Fault detected: yes
+Fault type: H-Bridge F3
+Fault-Rating: 80
+Explanation: The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150013,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150014,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150015,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150016,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150017,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150018,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150019,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150020,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150021,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150022,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150023,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150024,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150025,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150026,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150027,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150028,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150029,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** H-Bridge F3
+**Fault-Rating:** 80
+**Explanation:** The mode of h-bridge is zero, which typically corresponds to the F3 fault (always stops the motor). This is consistent with the rotation speed of electric motor being zero."
+150030,llama3.1:8b,True,10,similarity,"Based on the test measurements:
+
+battery's current is zero and battery's voltage is zero and rotation speed of electric motor is five and mode of h-bridge is zero
+
+Fault detected: yes
+Fault type: H-Bridge F3 (always stops the motor)
+Fault-Rating: 100
+Explanation: The mode of the H-Bridge is zero, which typically corresponds to the F3 fault. Additionally, the battery's voltage is zero, indicating a potential issue with the power source. However, since the context specifies that the battery's voltage should be 14V when not in use, this could also indicate an issue with the motor or load. Given the mode of the H-Bridge and the rotation speed of the electric motor being five (which is unusual for idle conditions), it is likely that the F3 fault is the primary cause.
+
+Note: The battery's current being zero and voltage being zero suggests a potential issue, but without more information about the expected behavior in this context, it's difficult to conclusively determine if this is related to the H-Bridge or another component. However, given the mode of the H-Bridge and the rotation speed of the motor, the F3 fault seems like the most likely explanation."
+150031,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150032,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150033,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150034,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150035,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150036,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150037,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150038,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150039,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150040,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150041,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150042,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150043,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150044,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150045,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150046,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150047,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150048,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150049,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150050,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150051,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150052,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150053,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150054,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150055,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150056,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150057,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150058,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."
+150059,llama3.1:8b,True,10,similarity,"**Fault detected:** yes
+**Fault type:** Battery Empty
+**Fault-Rating:** 80
+**Explanation:** The battery's voltage is zero, which matches the ""Empty"" fault model. This is consistent with the overall context where the battery's current and voltage are both zero, indicating a lack of power supply."

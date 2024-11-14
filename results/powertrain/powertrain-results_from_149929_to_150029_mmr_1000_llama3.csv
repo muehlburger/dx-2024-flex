@@ -1,0 +1,401 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+149929,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149930,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149931,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149932,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149933,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149934,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149935,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149936,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149937,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149938,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149939,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149940,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149941,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149942,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149943,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149944,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149945,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149946,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149947,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149948,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149949,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149950,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149951,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149952,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149953,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149954,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149955,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149956,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149957,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149958,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149959,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149960,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149961,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149962,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149963,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149964,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149965,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149966,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149967,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149968,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149969,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149970,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149971,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149972,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149973,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149974,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149975,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149976,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149977,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149978,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149979,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149980,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149981,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149982,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149983,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149984,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149985,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149986,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149987,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149988,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149989,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149990,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149991,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149992,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149993,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149994,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149995,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149996,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149997,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149998,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+149999,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150000,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150001,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150002,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150003,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150004,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150005,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150006,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150007,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150008,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150009,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150010,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150011,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150012,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150013,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150014,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150015,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150016,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150017,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150018,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150019,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150020,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150021,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150022,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150023,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150024,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150025,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150026,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150027,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."
+150028,llama3,False,1000,mmr,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurement is within the normal operating range specified in the context (time = 0, battery's current = 0, voltage = 14, rotation speed of electric motor = 0, mode of h-bridge = 5). The values are consistent with the given ranges."

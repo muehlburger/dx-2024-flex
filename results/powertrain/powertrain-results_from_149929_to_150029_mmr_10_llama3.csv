@@ -1,0 +1,401 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+149929,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149930,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149931,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149932,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149933,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149934,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149935,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149936,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149937,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149938,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149939,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149940,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149941,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149942,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149943,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149944,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149945,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149946,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149947,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149948,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149949,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149950,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149951,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149952,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149953,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149954,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149955,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149956,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149957,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149958,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149959,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149960,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149961,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149962,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149963,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149964,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149965,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149966,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149967,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149968,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149969,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149970,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149971,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149972,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149973,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149974,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149975,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149976,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149977,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149978,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149979,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149980,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149981,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149982,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149983,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149984,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149985,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149986,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149987,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149988,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149989,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149990,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149991,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149992,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149993,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149994,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149995,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149996,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149997,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149998,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+149999,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150000,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150001,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150002,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150003,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150004,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150005,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150006,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150007,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150008,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150009,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150010,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150011,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150012,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150013,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150014,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150015,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150016,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150017,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150018,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150019,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150020,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150021,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150022,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150023,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150024,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150025,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150026,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150027,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."
+150028,llama3,True,10,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurement contains anomalies because the rotation speed of electric motor is 5, which is not zero as in the normal operating range. The mode of h-bridge is also 0, which is different from the given value of 5 in the context. These deviations from the normal operating range indicate an anomaly."

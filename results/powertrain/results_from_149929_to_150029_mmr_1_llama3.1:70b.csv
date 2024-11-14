@@ -1,0 +1,301 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+149929,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range (rotation speed = 0, mode of h-bridge = 5). However, battery's current (0), battery's voltage (14) are within the normal operating range."
+149930,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149931,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149932,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149933,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149934,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149935,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149936,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149937,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149938,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149939,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149940,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149941,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149942,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149943,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149944,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149945,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149946,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149947,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149948,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149949,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149950,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149951,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149952,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149953,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149954,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149955,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149956,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149957,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149958,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149959,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149960,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149961,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149962,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149963,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149964,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149965,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149966,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149967,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149968,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149969,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149970,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149971,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149972,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149973,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149974,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149975,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149976,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149977,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149978,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149979,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149980,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149981,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149982,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149983,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149984,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149985,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149986,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149987,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149988,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149989,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149990,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149991,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149992,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149993,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149994,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149995,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149996,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149997,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149998,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+149999,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150000,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150001,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150002,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150003,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150004,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150005,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150006,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150007,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150008,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150009,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150010,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150011,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150012,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150013,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150014,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150015,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150016,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150017,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150018,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150019,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150020,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150021,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150022,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150023,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150024,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150025,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150026,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150027,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."
+150028,llama3.1:70b,True,1,mmr,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation: The rotation speed of electric motor (5) and mode of h-bridge (0) are outside the normal operating range specified in the context."

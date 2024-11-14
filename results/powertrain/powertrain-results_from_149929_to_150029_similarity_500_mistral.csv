@@ -1,0 +1,501 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+149929,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149930,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149931,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149932,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149933,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149934,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149935,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149936,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149937,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149938,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149939,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149940,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149941,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149942,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149943,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149944,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149945,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149946,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149947,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149948,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149949,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149950,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149951,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149952,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149953,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149954,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149955,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149956,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149957,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149958,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149959,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149960,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149961,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149962,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149963,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149964,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149965,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149966,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149967,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149968,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149969,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149970,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149971,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149972,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149973,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149974,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149975,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149976,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149977,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149978,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149979,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149980,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149981,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149982,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149983,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149984,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149985,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149986,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149987,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149988,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149989,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149990,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149991,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149992,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149993,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149994,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149995,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149996,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149997,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149998,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+149999,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150000,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150001,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150002,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150003,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150004,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150005,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150006,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150007,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150008,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150009,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150010,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150011,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150012,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150013,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150014,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150015,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150016,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150017,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150018,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150019,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150020,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150021,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150022,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150023,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150024,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150025,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150026,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150027,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."
+150028,mistral,True,500,similarity,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+
+The given measurement of rotation speed of electric motor being five while battery's current is zero and mode of h-bridge is zero is not consistent with the context provided. In the context, a zero current means that there is no flow of electrical charge between the battery terminals, which implies that the motor should not be rotating since it requires electrical power to do so. Additionally, a mode of h-bridge as zero indicates that none of the motor phases are being driven, further supporting the argument that the motor should not be rotating. Therefore, an anomaly rating of 100 is appropriate for this measurement."

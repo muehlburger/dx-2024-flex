@@ -1,0 +1,478 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+3950,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the expected range. For example:
+* amperage_A is minus eighty-nine point eight nine (should be a positive value)
+* power_W is minus thirty-nine thousand, five hundred and ninety-eight point three three (should be a positive value)
+These values do not meet criteria 1) Values are in a reasonable range of the provided context."
+3951,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC (minus ten), temperature_degC_one to temperature_degC_five (all negative) are outside the normal operating range of temperatures. The value for power_W (minus thirty-nine thousand, five hundred and ninety-eight point three four) is also anomalous as it is a large negative value, which does not make physical sense in the context of power measurement. The other values appear to be within the expected ranges."
+3952,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the expected range. For example, temperature_degC is minus ten, which is significantly lower than the normal operating range of -10 to 11.27°C. Similarly, power_W is minus thirty-nine thousand, five hundred and ninety-eight point three five, which is an extremely low value that is not consistent with the given context. The other values also appear to be outside the expected range, indicating anomalies in the measurements."
+3953,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation:
+The measurement for power_W is minus thirty-nine thousand, five hundred and ninety-eight point three five, which is significantly higher than the normal operating range of temperature_degC (minus ten to eleven point two seven) and amperage_A (minus eighty-nine point eight nine). This suggests that there may be an anomaly in the measurement."
+3954,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the expected range. For example, amperage_A is minus eighty-nine point eight nine and power_W is minus thirty-nine thousand, five hundred and ninety-eight point three six, which are not physically possible. Additionally, temperature_degC has multiple instances with values of minus ten, which may indicate a measurement error or inconsistency."
+3955,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the normal operating range. For example, temperature_degC is minus ten, which is significantly lower than the other temperatures (9.17°C to 28.56°C). Additionally, amperage_A and power_W have negative values, which is unusual for these types of measurements. These outliers contribute to an anomaly rating of 80 out of 100."
+3956,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC (minus ten), temperature_degC_one to temperature_degC_five (all negative) are outside the normal operating range of temperatures. Additionally, amperage_A is minus eighty-nine point nine and power_W is minus thirty-nine thousand, five hundred and ninety-eight point three eight, which are also unusual values. These anomalies exceed the criteria for a rating of 100."
+3957,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the expected range. For example, temperature_degC is minus ten, which is significantly lower than the other temperatures (9.1, 11.3, 7.36, and 28.56). Additionally, amperage_A is minus eighty-nine point nine and power_W is minus thirty-nine thousand, five hundred and ninety-eight point three eight, which are extremely low values that do not fit with the context of normal operating range."
+3958,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The measurement ""temperature_degC_six"" is 28.55, which is significantly higher than the other temperature values (-10 to 11.3°C). This suggests an anomaly in this measurement. The other measurements appear to be within a reasonable range of the provided context."
+3959,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the expected range. For example, temperature_degC is minus ten, which is significantly lower than the other temperatures (9.2 to 28.55 degrees Celsius). Additionally, amperage_A and power_W have negative values, which is unusual for these types of measurements. These outliers contribute to an anomaly rating of 80 out of 100."
+3960,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the normal operating range. For example, temperature_degC is minus ten, which is significantly lower than the other temperatures (minus 10 to 11.32°C). Additionally, amperage_A and power_W have negative values, which is unusual for these types of measurements. The velocity_km_h value is also high compared to the other velocities in the context. These anomalies may indicate errors or inconsistencies in the data."
+3961,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC (minus ten), temperature_degC_one to temperature_degC_five (all negative) are outside the normal operating range of temperatures. The value for power_W (minus thirty-nine thousand, five hundred and ninety-eight point four one) is also anomalous as it is a large negative value that does not fit with typical power measurements. The other values appear to be within reasonable ranges, but these two anomalies significantly impact the overall rating."
+3962,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC (minus ten), temperature_degC_one to temperature_degC_five (all around zero or slightly positive) are significantly lower than the normal operating range of minus ten. The value for power_W is also extremely low, indicating an anomaly."
+3963,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The only anomaly detected is in amperage_A (minus eighty-nine point nine) and power_W (minus thirty-nine thousand, five hundred and ninety-eight point four three), which are significantly lower than the expected values based on the context. The other measurements appear to be within a reasonable range of the provided context."
+3964,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The temperature values (minus ten to nine point two three) are within the normal operating range provided in the context. However, the power value (- thirty-nine thousand, five hundred and ninety-eight point four four) is significantly lower than expected, indicating an anomaly. The other measurements appear consistent with the given context."
+3965,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one, temperature_degC_two, and temperature_degC_three) are outside the normal operating range of minus ten degrees Celsius. The other measurements appear to be within reasonable ranges based on the provided context. However, the power_W measurement is extremely low, which may indicate an anomaly."
+3966,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC (minus ten), temperature_degC_one to temperature_degC_five (all around zero or slightly positive) are significantly lower than the normal operating range of minus ten. The value for power_W is also extremely low, indicating an anomaly."
+3967,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the expected range. For example, temperature_degC is minus ten, which is significantly lower than the other temperatures (9.24°C to 28.54°C). Similarly, power_W is minus thirty-nine thousand, five hundred and ninety-eight point four six, which is an extremely low value. These outliers indicate that some measurements are not consistent with the normal operating range provided in the context."
+3968,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the expected range. For example, temperature_degC is minus ten, which is unusual for most physical systems. Additionally, amperage_A and power_W have negative values, which is not typical in most electrical systems. These outliers contribute to an anomaly rating of 80 out of 100."
+3969,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the expected range. For example, temperature_degC is minus ten, which is significantly lower than the other temperatures (9.25°C to 28.53°C). Additionally, power_W is minus thirty-nine thousand, five hundred and ninety-eight point four seven, which is an extremely low value. These outliers indicate that there may be errors or inconsistencies in the measurements."
+3970,llama3,False,1,similarity,"Anomaly: No
+
+Anomaly-Rating: 0 (all measurements are within the provided context's normal operating range)
+
+Explanation:
+The only difference between the test measurement and the original context is in temperature_degC_four, which has a value of 11.37 instead of 11.38. This small deviation does not exceed the expected tolerance and therefore does not indicate an anomaly. All other measurements match exactly with the provided context."
+3971,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the normal operating range. For example, temperature_degC is minus ten, which is significantly lower than the other temperatures (9.26°C to 28.53°C). Similarly, amperage_A is minus 89.91 and power_W is minus 39,598.49, which are unusual values for these measurements. The velocity_km_h of 130 km/h may also be an anomaly depending on the context."
+3972,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC (minus ten), temperature_degC_one to temperature_degC_five (all around zero or slightly positive) are significantly lower than the normal operating range of minus ten. The value for power_W is also extremely low, indicating an anomaly."
+3973,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the expected range. For example, temperature_degC is minus ten, which is significantly lower than the other temperatures (ranging from 7 to 12 degrees Celsius). Additionally, amperage_A and power_W have negative values, which is unusual for these types of measurements. The velocity_km_h value is also relatively high compared to the context. These anomalies contribute to an anomaly rating of 80 out of 100."
+3974,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC (minus ten), temperature_degC_one to temperature_degC_five (all around zero or slightly positive) are significantly lower than the normal operating range of minus ten. The value for power_W is also extremely low, indicating an anomaly."
+3975,llama3,False,1,similarity,"Anomaly: No
+Anomaly-Rating: 0 (all measurements are within the provided context's normal operating range)
+
+Explanation:
+All measurements match the ranges provided in the context, with no values exceeding or falling outside of the specified limits. The values for temperature_degC, amperage_A, power_W, velocity_km_h, and volflow_l_min all fall within the expected ranges, indicating no anomalies."
+3976,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies due to the presence of negative values for temperature_degC (minus 10), amperage_A (minus 89.92), and power_W (minus 39,598.53). These values are outside the expected range for these physical quantities, indicating potential errors or inconsistencies in the data."
+3977,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the expected range. For example, temperature_degC is minus ten, which is unusual for most physical systems. Additionally, amperage_A and power_W have negative values, which is not typical in most electrical systems. These deviations from the normal operating range indicate that there may be issues with the measurements or the system being measured."
+3978,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The only difference between this measurement and the original context is temperature_degC_five which has changed from 7.488 to 7.477. This change is relatively small and within a reasonable range, but it still indicates an anomaly compared to the original context."
+3979,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the normal operating range. For example, temperature_degC is minus ten, which is significantly lower than the other temperatures (9.31°C, 11.43°C, 7.48°C, and 28.52°C). Additionally, amperage_A is minus 89.92, which is an unusual value for current measurements. Power_W is also unusually low at -39,598.55 W. These values deviate from the expected range and are considered anomalies."
+3980,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the normal operating range. For example, temperature_degC is minus ten, which is significantly lower than the other temperatures. Additionally, power_W is minus thirty-nine thousand, five hundred and ninety-eight point five five, which is an extremely low value. These outliers indicate that the measurements may not be representative of typical operation."
+3981,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC (minus ten), temperature_degC_one to temperature_degC_five (all negative) are outside the normal operating range of temperatures. The value for power_W (minus thirty-nine thousand, five hundred and ninety-eight point five six) is also anomalous as it is a large negative value that does not make physical sense in the context of energy consumption. The other values appear to be within reasonable ranges, but these two anomalies are significant enough to warrant an anomaly rating of 100."
+3982,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC (minus ten), temperature_degC_one to temperature_degC_five (all negative or very low) are outside the normal operating range of temperatures. Additionally, amperage_A is extremely low (-89.92 A) and power_W is also extremely low (-39,598.57 W). These values do not fit within the provided context and are considered anomalies."
+3983,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the normal operating range. For example, temperature_degC is minus ten, which is significantly lower than the other temperatures (9.33, 11.45, 7.5, and 28.51). Additionally, amperage_A is minus eighty-nine point nine two, which is an unusual value for current measurements. Power_W is also unusually low at minus thirty-nine thousand, five hundred and ninety-eight point five eight. These values deviate from the expected range and are considered anomalies."
+3984,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The only measurement that seems to be out of range is power_W which is minus thirty-nine thousand, five hundred and ninety-eight point five eight. This value is significantly lower than the other measurements and may indicate an error or anomaly in the data. The other measurements appear to be within reasonable ranges based on the provided context."
+3985,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the expected range. For example, temperature_degC is minus ten, which is significantly lower than the other temperatures (9.34°C to 28.5°C). Similarly, amperage_A and power_W have negative values, which is unusual for these physical quantities. The velocity_km_h value of 130 km/h may also be considered an anomaly if it's not typical for this context."
+3986,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC (minus ten), temperature_degC_one to temperature_degC_five (all around -10°C or 14°F) are significantly lower than the normal operating range of temperature_degC_three (9.35°C). Additionally, power_W (-39,598.6 W) is extremely low and amperage_A (-89.93 A) is also unusually low. These values deviate greatly from the expected ranges, indicating anomalies in the measurements."
+3987,llama3,False,1,similarity,"Anomaly: no
+Anomaly-Rating: 0
+Explanation:
+The measurements provided are within the normal operating range specified in the context. All values fall within the expected ranges for time_s, temperature_degC, amperage_A, power_W, velocity_km_h, and volflow_l_min. There are no anomalies detected."
+3988,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the expected range. For example, amperage_A is minus eighty-nine point nine three and power_W is minus thirty-nine thousand, five hundred and ninety-eight point six one, which are not reasonable values for these physical quantities. Additionally, velocity_km_h is one hundred and thirty, which may be high for a typical operating condition. The other measurements seem to be within the expected range, but the overall anomaly rating is 80 because of the presence of some unusual values."
+3989,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the expected range. For example, temperature_degC is minus ten, which is significantly lower than the other temperatures (around 10°C). Additionally, power_W is extremely low (-39,598 W), and amperage_A is also unusually low (-89.93 A). These values deviate from the typical ranges in the context, indicating anomalies."
+3990,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation:
+The values for power_W (minus thirty-nine thousand, five hundred and ninety-eight point six three) and amperage_A (minus eighty-nine point nine three) are outside the normal operating range of power and current. This suggests that there may be an anomaly in the measurement data."
+3991,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the normal operating range. For example, temperature_degC is minus ten, which is significantly lower than the other temperatures (minus 10 to 11.5°C). Additionally, power_W is extremely low (-39,598 W), and amperage_A is also very low (-89.93 A). These values are not consistent with the given context."
+3992,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation:
+The values for power_W (minus thirty-nine thousand, five hundred and ninety-eight point six four) and amperage_A (minus eighty-nine point nine three) are outside the normal operating range of power and current. This indicates a high level of anomaly in these measurements."
+3993,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the expected range. For example, temperature_degC is minus ten, which is significantly lower than the typical operating temperature. Additionally, power_W is minus thirty-nine thousand, five hundred and ninety-eight point six five, which is an extremely low value. These outliers indicate that the measurements may not be representative of normal operating conditions."
+3994,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The temperature_degC values are consistent with the provided context (minus ten to eleven point five two). However, amperage_A and power_W have negative values which are not reasonable in the given context. Velocity_km_h is within the expected range of one hundred and thirty. The rest of the measurements do not contain anomalies. Overall, an anomaly rating of 80 is assigned due to the presence of a few unusual values."
+3995,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The only measurement that stands out as potentially anomalous is temperature_degC_six with a value of 28.49, which is significantly higher than the other temperature values (-10 to 11.52). The other measurements are within reasonable ranges and do not contain obvious anomalies. However, it's possible that this single measurement could be an outlier, hence the moderate anomaly rating of 80."
+3996,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the expected range. For example:
+* amperage_A is minus eighty-nine point nine four (should be a positive value)
+* power_W is minus thirty-nine thousand, five hundred and ninety-eight point six seven (should be a positive value)
+These values do not meet criteria 1) Values are in a reasonable range of the provided context."
+3997,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the expected range. For example, temperature_degC is minus ten, which is unusual for most physical systems. Additionally, amperage_A and power_W have negative values, which is not typical in most electrical systems. These deviations from the normal operating range indicate that there may be issues with the measurements or the system being measured."
+3998,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC (minus ten), temperature_degC_one to temperature_degC_five (all negative) and amperage_A (minus eighty-nine point nine four) are outside the normal operating range. Additionally, power_W is extremely low (- thirty-nine thousand, five hundred and ninety-eight point six nine). These values do not meet criteria 1-3, indicating a high anomaly rating of 100."
+3999,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The measurements contain anomalies because some values are outside the normal operating range provided in the context.
+
+* temperature_degC is minus ten, which is below the minimum value of -10°C.
+* amperage_A is minus eighty-nine point nine four, which is an unusual and potentially invalid value for current measurement.
+* power_W is minus thirty-nine thousand, five hundred and ninety-eight point six nine, which is a highly unlikely and possibly incorrect value for power measurement.
+
+The other measurements seem to be within the normal operating range."
+4000,llama3,True,1,similarity,"Anomaly: yes
+Anomaly-Rating: 80
+Explanation:
+The temperature values (minus ten to eleven point five six) are within the normal operating range provided in the context. However, the amperage_A value of minus eighty-nine point nine four and power_W value of minus thirty-nine thousand, five hundred and ninety-eight point seven are outside the expected range, indicating anomalies."
+4001,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature values (temperature_degC_three to temperature_degC_five) are significantly higher than the normal operating range of minus ten to twelve point five degrees Celsius. This suggests that there may be an anomaly in these measurements. The other measurements appear to be within the expected ranges, but the high temperature values warrant further investigation."
+4002,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature_degC values (minus ten, minus ten, minus ten, ninety-nine, ninety-nine, ninety-nine) are significantly different from the normal operating range of minus ten to eleven point nine four. This is an anomaly."
+4003,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature_degC values (temperature_degC_three to temperature_degC_five) are significantly higher than the normal operating range of minus ten to eleven point eight. This is the primary anomaly detected in the measurement. The other measurements appear to be within the expected ranges, but the temperature anomalies dominate the rating."
+4004,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature_degC values (minus ten, minus ten, minus ten, ninety-nine, ninety-nine, ninety-nine) are significantly different from the normal operating range of minus ten to eleven point nine four. The amperage_A value (-89.94) is also outside the expected range. These deviations indicate anomalies in the measurements."
+4005,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature_degC values (minus ten to ninety-nine) and amperage_A value (-89.94) are outside the normal operating range provided in the context. The power_W value is also slightly off, but still within a reasonable range. The other measurements appear consistent with the given context."
+4006,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature_degC values (minus ten, minus ten, minus ten, ninety-nine, ninety-nine, ninety-nine) are significantly different from the provided context range of minus ten to eleven point nine six. This suggests an anomaly in the temperature measurements."
+4007,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+
+The measurement ""temperature_degC_three"" is 99, which is significantly higher than the normal operating range of -10 to 12.1 degrees Celsius. This value is considered an anomaly.
+
+All other measurements are within the normal operating range or have similar values to the original context, so they do not contain anomalies."
+4008,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one to temperature_degC_five) are outside the normal operating range of minus ten to eleven point nine four degrees Celsius. The amperage_A value is also outside the expected range. These deviations from the normal operating range indicate anomalies in the measurements."
+4009,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature_degC values (temperature_degC_three to temperature_degC_five) are significantly higher than the normal operating range of minus ten to eleven point eight. This deviation from the expected range indicates an anomaly. The other measurements appear to be within the normal operating range, but the temperature anomalies dominate the rating."
+4010,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature_degC values (minus ten, minus ten, minus ten, ninety-nine, ninety-nine, ninety-nine) are significantly different from the normal operating range of minus ten to eleven point nine six. The amperage_A value (-89.95) is also outside the expected range. These deviations indicate anomalies in the measurements."
+4011,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one, temperature_degC_two, temperature_degC_three, and temperature_degC_four) are significantly higher than the normal operating range of minus ten to twelve point one degrees Celsius. This is an anomaly."
+4012,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature_degC values (minus ten, minus ten, minus ten, 99, 99, 99) are significantly different from the normal operating range of -10 to 11.63°C. This is a clear anomaly. The other measurements appear to be within reasonable ranges, but the temperature anomalies dominate the rating."
+4013,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature_degC values (minus ten, minus ten, minus ten, 99, 99, 99) are significantly higher than the normal operating range of -10°C. The amperage_A value (-89.95) is very close to the normal operating range value (-89.98), but still considered an anomaly due to its proximity. The power_W value (-39,599.8) is also slightly different from the normal operating range value (-39,599). The other values (time_s, no_unit_none, velocity_km_h, no_unit_none_one, temperature_degC_six, volflow_l_min) are within their respective ranges and do not contain anomalies. Overall, the measurements contain some anomalies that deviate from the normal operating range."
+4014,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature_degC values (minus ten, minus ten, minus ten, ninety-nine, ninety-nine, and ninety-nine) are significantly higher than the normal operating range of minus ten to eleven point eight. This is an anomaly."
+4015,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one, temperature_degC_two, temperature_degC_three, and temperature_degC_four) are significantly higher than the normal operating range of minus ten to eleven point nine six degrees Celsius. This deviation from the expected range indicates an anomaly.
+
+Note: The other measurements appear to be within the normal operating range or consistent with the given context, but the temperature values stand out as unusual."
+4016,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one, temperature_degC_two, temperature_degC_three, and temperature_degC_four) are significantly higher than the normal operating range of minus ten to eleven point eight degrees Celsius. This suggests an anomaly in the measurement data."
+4017,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature_degC values (temperature_degC_three to temperature_degC_five) are significantly higher than the normal operating range of minus ten to eleven point eight. This suggests an anomaly in the measurement data."
+4018,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one to temperature_degC_five) are outside the normal operating range of minus 10°C to 11.8°C and 7.81°C. The power value (power_W) is also outside the normal range. These deviations from the expected values indicate anomalies in the measurements."
+4019,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature_degC values (minus ten, minus ten, minus ten, 99, 99, 99) are significantly higher than the normal operating range of -10°C. The volflow_l_min value (12.5) is also higher than the normal operating range of 7.83. These deviations from the normal operating range indicate anomalies in the measurements."
+4020,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one to temperature_degC_five) are outside the normal operating range of minus 10°C to 11.8°C and 7.81°C. The power value (power_W) is also outside the normal range. These deviations from the expected values indicate anomalies in the measurements."
+4021,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one, temperature_degC_two, temperature_degC_three, and temperature_degC_four) are significantly higher than the normal operating range of minus ten to twelve point one degrees Celsius. This suggests that there may be an anomaly in these measurements."
+4022,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one to temperature_degC_five) are outside the normal operating range of minus 10°C to 11.8°C and 7.81°C. The power value (power_W) is also outside the normal range. These deviations from the expected values indicate anomalies in the measurements."
+4023,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature_degC measurements (minus ten to ninety-nine) and power_W measurement (-39,599 to -39,598.7) are outside the normal operating range provided in the context. The volflow_l_min measurement (12.5) is also higher than the normal value (7.83). These deviations from the expected values indicate anomalies."
+4024,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one, temperature_degC_two, temperature_degC_three, and temperature_degC_four) are significantly higher than the normal operating range of minus ten to twelve point zero two degrees Celsius. This suggests that there may be an anomaly in these measurements.
+
+Note: The other measurements (amperage_A, power_W, velocity_km_h, no_unit_none, and no_unit_none_one) appear to be within the expected ranges based on the provided context."
+4025,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one to five) are outside the normal operating range of minus ten to twelve point one degrees Celsius. The amperage_A value is also slightly higher than the normal operating range. These deviations from the expected ranges indicate anomalies in the measurements."
+4026,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one, temperature_degC_two, temperature_degC_three, and temperature_degC_four) are significantly higher than the normal operating range of minus ten to thirteen point one two degrees Celsius. This suggests that there may be an anomaly in these measurements.
+
+Note: The other measurements (time_s, no_unit_none, amperage_A, power_W, velocity_km_h, no_unit_none_one, temperature_degC_six, and volflow_l_min) appear to be within the normal operating range or consistent with the given context."
+4027,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+
+The temperature values (temperature_degC, temperature_degC_one, temperature_degC_two, temperature_degC_three, and temperature_degC_four) are significantly higher than the normal operating range of minus ten degrees Celsius. This is an anomaly.
+
+The other measurements appear to be within reasonable ranges based on the provided context."
+4028,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one, temperature_degC_two, temperature_degC_three, and temperature_degC_four) are significantly higher than the normal operating range of minus ten to twenty point eight one degrees Celsius. The amperage_A value is also outside the normal range. These deviations from the expected values indicate anomalies in the measurements."
+4029,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature_degC values (minus ten, minus ten, minus ten, ninety-nine, ninety-nine, ninety-nine) are significantly different from the normal operating range of (-10 to 11.8). The other measurements seem to be within a reasonable range, but the temperature anomalies dominate the rating."
+4030,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one to temperature_degC_five) are outside the normal operating range of minus ten to eleven point eight degrees Celsius. The amperage_A value is also slightly off from the original measurement by a small margin. These deviations contribute to an anomaly rating of 80."
+4031,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature_degC values (minus ten, minus ten, minus ten, 99, 99, 99) are significantly different from the normal operating range of -10 to 11.8°C. The other measurements appear to be within reasonable ranges, but the temperature anomalies dominate the rating."
+4032,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one, temperature_degC_two, temperature_degC_three, and temperature_degC_four) are significantly higher than the normal operating range of minus ten to twenty point eight one degrees Celsius. The amperage_A value is also outside the normal range. These deviations from the expected values indicate anomalies in the measurements."
+4033,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one, temperature_degC_two, temperature_degC_three, and temperature_degC_four) are significantly higher than the normal operating range of minus ten to eleven point eight degrees Celsius. This is an anomaly."
+4034,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one, temperature_degC_two, temperature_degC_three, and temperature_degC_four) are significantly higher than the normal operating range of minus ten to eleven point seven six degrees Celsius. This is an anomaly."
+4035,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one to five) are outside the normal operating range of minus ten to twenty point four nine degrees Celsius. The amperage_A value is also outside the range. These deviations from the expected values indicate anomalies in the measurements."
+4036,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one to temperature_degC_five) are outside the normal operating range of minus ten to eleven point eight degrees Celsius. The power value (power_W) is also slightly higher than the normal operating range. These deviations from the expected ranges indicate anomalies in the measurements."
+4037,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature_degC values (minus ten, minus ten, minus ten, 99, 99, 99) are significantly higher than the normal operating range of -10°C. This is an anomaly. The other measurements seem to be within reasonable ranges, but the temperature anomalies dominate the rating."
+4038,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one to temperature_degC_five) are outside the normal operating range of minus 10°C to 11.8°C and 7.81°C. The power value (power_W) is also outside the normal range. These deviations from the expected values indicate anomalies in the measurements."
+4039,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one to temperature_degC_five) are outside the normal operating range of minus 10°C to 11.8°C and 7.81°C. The power value (power_W) is also outside the normal range. These deviations from the expected values indicate anomalies in the measurements."
+4040,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature_degC measurements (minus ten to ninety-nine) are outside the normal operating range of minus ten to eleven point eight degrees Celsius. This is a significant deviation, hence the high anomaly rating. The other measurements appear to be within reasonable ranges, but the temperature anomalies dominate the overall assessment."
+4041,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature_degC values (minus ten, ninety-nine, ninety-nine, and ninety-nine) are significantly higher than the normal operating range of minus ten. The amperage_A value is also slightly different from the normal operating range of minus ninety-two point seven nine. These deviations from the normal operating range indicate anomalies in the measurements."
+4042,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature_degC values (minus ten, ninety-nine, ninety-nine, and ninety-nine) are significantly higher than the normal operating range of minus ten. The amperage_A value is also slightly lower than the normal operating range. These deviations from the normal operating range indicate anomalies in the measurements."
+4043,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature_degC values (minus ten, minus ten, minus ten, ninety-nine, ninety-nine, ninety-nine) are significantly different from the normal operating range of minus ten and twenty point five to twenty-three point one four. This is an anomaly."
+4044,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one to five) are outside the normal operating range of minus 10°C to 11.8°C and 7.81°C. The power value (power_W) is also outside the normal range. These deviations from the expected values indicate anomalies in the measurements."
+4045,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature_degC values (minus ten, minus ten, minus ten, ninety-nine, ninety-nine, ninety-nine) are significantly different from the normal operating range of minus ten and twenty point five to twenty-three point one four. This is an anomaly."
+4046,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one, temperature_degC_two, temperature_degC_three, and temperature_degC_four) are significantly higher than the normal operating range of minus ten to twelve degrees Celsius. The amperage_A value is also outside the normal range. These deviations from the expected values indicate anomalies in the measurements."
+4047,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature_degC values (minus ten, minus ten, minus ten, ninety-nine, ninety-nine, ninety-nine) are significantly different from the normal operating range of minus ten to twenty-five degrees Celsius. This is an anomaly."
+4048,llama3,True,1,similarity,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The temperature values (temperature_degC, temperature_degC_one to five) are outside the normal operating range of minus 10°C to 11.8°C and 7.81°C. The power value (power_W) is also slightly higher than the normal operating range. These deviations from the expected ranges indicate anomalies in the measurements."
+4049,llama3,True,1,similarity,"Anomaly: Yes
+
+Anomaly-Rating: 80
+
+Explanation:
+The temperature_degC values (minus ten, minus ten, minus ten, ninety-nine, ninety-nine, ninety-nine) are significantly different from the normal operating range of minus ten and twenty point five to twenty-three point one four. This is an anomaly."

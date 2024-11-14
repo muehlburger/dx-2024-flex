@@ -1,0 +1,613 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+150000,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: no
+- Affected Component: None
+- Fault Type: None
+- Explanation: No deviations from normal behavior detected.
+
+However, if we analyze the input data for Part 1 and infer rules:
+
+**Battery Rules**
+- Normal Current Range: [0, 0]
+- Normal Voltage Range: [14, 14]
+
+**Motor Rules**
+- Normal Speed Range: [0, 0]
+
+**H-Bridge Rules**
+- Normal Mode Range: [5, 5]
+
+Now, applying these rules to the input data for Part 2:
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge mode is outside its normal range (0 instead of 5)."
+150001,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150002,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150003,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150004,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150005,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150006,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150007,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150008,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150009,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150010,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150011,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150012,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150013,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150014,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150015,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150016,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150017,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150018,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150019,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150020,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150021,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150022,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150023,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150024,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150025,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150026,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150027,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150028,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150029,llama3.1:8b-instruct-fp16,False,10,similarity,"# Inferred Rules:
+- Battery Current: 0 < current <= 10 A
+- Battery Voltage: 13.5 V <= voltage <= 14.5 V
+- Motor Speed: 0 RPM <= speed <= 100 RPM
+- H-Bridge Mode: mode == 5 (specific mode for normal operation)
+
+# Fault Report:
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The H-Bridge is operating in an unexpected mode, which may indicate a configuration error or malfunction."
+150030,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150031,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150032,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150033,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150034,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150035,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150036,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150037,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150038,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150039,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150040,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150041,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150042,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150043,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150044,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150045,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150046,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150047,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150048,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150049,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150050,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150051,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150052,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150053,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150054,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150055,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150056,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150057,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150058,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."
+150059,llama3.1:8b-instruct-fp16,False,10,similarity,"- Fault Detected: yes
+- Affected Component: Battery
+- Fault Type: Battery Voltage Fault
+- Explanation: The battery voltage is zero, which is outside the normal range of 14 volts.
+
+- Fault Detected: yes
+- Affected Component: H-Bridge
+- Fault Type: H-Bridge Mode Anomaly
+- Explanation: The mode of the H-Bridge is zero, which is not a valid mode according to the inferred rules."

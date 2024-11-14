@@ -1,6 +1,6 @@
 cff-version: 1.0.0
 message: "If you use FLEX for your research, please cite the following."
-title: "FLEX: Fault Localization with Open-Source LLMs in Powertrain Systems"
+title: "FLEX: Fault Localization and Explanation with Open-Source Large Langauge Models in Powertrain Systems"
 version: "v0.0.1"
 doi: 10.5281/zenodo.13879993
 authors:
@@ -20,7 +20,7 @@ references:
         given-names: Herbert
       - family-names: Wotawa
         given-names: Franz
-    title: "FLEX: Fault Localization with Open-Source LLMs in Powertrain Systems"
+    title: "FLEX: Fault Localization and Explanation with Open-Source Large Langauge Models in Powertrain Systems"
     year: 2024
     collection-title: "Proceedings of the 35th International Workshop on Principles of Diagnosis and Resilient Systems"
     conference:

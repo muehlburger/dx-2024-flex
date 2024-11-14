@@ -1,0 +1,703 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+149929,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, which is expected when the motor is not running. The battery's voltage is fourteen volts, which is the typical voltage for a 12V battery. The rotation speed of the electric motor is five, which is within the range of zero to five. The mode of the H-bridge is zero, which indicates that the motor is not running.
+
+The measurements are consistent with the given context and are within the expected ranges. Therefore, there are no anomalies in the measurements."
+149930,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149931,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149932,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149933,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149934,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149935,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149936,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149937,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149938,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149939,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149940,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149941,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149942,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149943,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149944,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149945,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149946,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149947,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149948,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149949,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149950,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149951,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149952,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149953,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149954,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149955,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149956,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149957,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149958,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149959,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149960,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149961,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149962,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149963,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149964,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149965,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149966,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149967,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149968,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149969,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149970,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149971,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149972,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149973,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149974,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149975,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149976,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149977,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149978,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149979,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149980,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149981,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149982,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149983,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149984,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149985,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149986,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149987,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149988,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149989,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149990,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149991,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149992,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149993,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149994,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149995,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149996,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149997,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149998,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+149999,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150000,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150001,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150002,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150003,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150004,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150005,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150006,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150007,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150008,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150009,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150010,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150011,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150012,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150013,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150014,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150015,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150016,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150017,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150018,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150019,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150020,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150021,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150022,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150023,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150024,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150025,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150026,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150027,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."
+150028,codegemma,False,500,similarity,"**Answer:**
+
+- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation:
+
+The measurements are within the given ranges. The battery's current is zero, battery's voltage is fourteen, rotation speed of electric motor is five, and mode of h-bridge is zero. These values are consistent with the context provided."

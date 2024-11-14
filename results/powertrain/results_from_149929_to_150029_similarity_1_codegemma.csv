@@ -1,0 +1,501 @@
+line,model,anomaly,num_of_results,search_strategy,reason
+149929,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current is zero, battery voltage is fourteen, rotation speed is five, and the h-bridge mode is zero, which are all consistent with the given context."
+149930,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149931,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149932,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149933,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149934,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149935,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149936,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149937,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149938,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149939,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149940,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149941,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149942,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149943,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149944,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149945,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149946,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149947,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149948,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149949,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149950,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149951,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149952,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149953,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149954,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149955,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149956,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149957,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149958,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149959,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149960,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149961,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149962,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149963,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149964,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149965,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149966,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149967,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149968,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149969,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149970,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149971,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149972,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149973,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149974,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149975,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149976,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149977,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149978,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149979,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149980,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149981,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149982,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149983,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149984,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149985,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149986,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149987,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149988,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149989,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149990,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149991,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149992,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149993,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149994,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149995,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149996,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149997,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149998,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+149999,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150000,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150001,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150002,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150003,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150004,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150005,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150006,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150007,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150008,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150009,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150010,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150011,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150012,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150013,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150014,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150015,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150016,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150017,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150018,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150019,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150020,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150021,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150022,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150023,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150024,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150025,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150026,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150027,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."
+150028,codegemma,False,1,similarity,"**Answer:**
+
+- Anomaly: no
+- Anomaly-Rating: 100
+- Explanation: All measurements are within the normal operating range specified in the context. The battery current, voltage, motor rotation speed, and H-bridge mode are all within their expected values."

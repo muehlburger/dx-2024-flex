@@ -14,7 +14,12 @@ pip install -r requirements.txt -v
 
 ## Usage
 
-You find our implementation in the [Jupyter notebook](code.ipynb).
+You find our implementation in the folder [code](./code/):
+
+- [Preprocessing](code/0-preprocessing.ipynb)
+- [Load Vectorestore Qudrant](code/1-bulk_load_to_qdrant_powertrain.py)
+- [Run Experiment](code/2-run-experiment.py)
+- [Format Results for Publication](code/3-generate_results_for_paper.py)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
