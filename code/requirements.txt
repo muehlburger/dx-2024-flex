@@ -1,14 +1,10 @@
 pandas
 num2words
-sympy
 langchain
 matplotlib
 numpy
-uuid
 sentence-transformers
 langchain-community
 qdrant-client
 tqdm
 scikit-learn
-logging
-argparse
